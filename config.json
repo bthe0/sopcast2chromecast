@@ -1,0 +1,5 @@
+{
+  "sopcastPath": "/Applications/SopCast.app/Contents/Resources/binaries/m32/sp-sc-auth",
+  "vlcPath": "/Applications/Vlc.app/Contents/MacOS/VLC",
+  "chromecastIp": "192.168.0.159"
+}
